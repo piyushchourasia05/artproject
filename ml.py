@@ -3,7 +3,7 @@ from keras.models import Sequential
 from keras.layers import Conv2D, MaxPooling2D, Flatten, Dense
 from keras.preprocessing.image import ImageDataGenerator
 
-# Set the path to your dataset
+# Set the path to your dataset123
 train_data_path = '/path/to/train_data'
 test_data_path = '/path/to/test_data'
 
